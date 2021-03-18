@@ -1,1 +1,2 @@
-# gbJavaSecond
+# Java. Уровень 2
+Домашние задания по курсу "Java. Уровень 2" от GeekBrains
