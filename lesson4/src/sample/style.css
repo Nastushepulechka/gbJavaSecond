@@ -1,0 +1,8 @@
+.text-area{
+
+    -fx-max-height: 400px;
+}
+
+.text-field{
+    -fx-min-width: 530px;
+}
